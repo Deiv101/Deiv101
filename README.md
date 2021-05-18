@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Deiv101
 - 👀 I’m interested in Data Science and DevOps
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOps and Data Science Projects 
+- 🌱 I’m currently learning DevOps and Software Engineering
+- 🌱 I am also continuing to Learn more on Data Science, Machine Learning and Deep Learning/AI 
+- 💞️ I’m looking to collaborate on Data Science, Machine Learning and DevOps Projects 
 - 📫 How to reach me: email-hrakojoana@gmail.com
 
 <!---
